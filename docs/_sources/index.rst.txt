@@ -1,0 +1,36 @@
+.. RT2-FirstAssignment documentation master file, created by
+   sphinx-quickstart on Mon May 15 12:11:25 2023.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Welcome to RT2-FirstAssignment's documentation!
+===============================================
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
+
+RT2-FirstAssignment documation
+******************************
+
+User input module
+=================
+.. automodule:: scripts.user_input
+   :members: 
+   
+Service module
+==============
+.. automodule:: scripts.service
+   :members: 
+   
+Information module
+==================
+.. automodule:: scripts.print_info
+   :members: 
