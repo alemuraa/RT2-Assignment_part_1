@@ -93,7 +93,18 @@ y_position.value = 3.0
 setting_button_clicked(setting_button)
 ```
 
+# RT2_assignment3.pdf
+In the RT2_assignment3.pdf, it is described:
 
+---
+
+**Research Track II - Assignment 3 Overview**
+
+For this assignment, we were required to perform a statistical analysis based on the robotics simulator developed in the first assignment of Research Track I. This involved comparing my implementation with that of a colleague, Pisano Davide (S4363394). The simulator, designed to operate in a 2D environment, was tasked with pairing silver tokens next to golden ones. 
+
+Our experiments focused on modifying the visual aspects of the arena to assess the performance of two different robotic controllers. By analyzing the results from both implementations, we aimed to identify any significant performance differences and evaluate the relative strengths and weaknesses of each approach.
+
+---
 
 
 
